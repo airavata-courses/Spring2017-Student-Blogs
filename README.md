@@ -1,2 +1,2 @@
 # Spring2017-Student-Blogs
-List of student blogs
+Put your name and blog URL below.
