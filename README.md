@@ -6,3 +6,4 @@ Put your name and blog URL below.
 3. Sneha Tilak - https://tilaks26.github.io/    
 4. Amruta Kamat - https://amrutakamat16.github.io/    
 5. Eldho Mathulla - https://eldhomathulla.github.io/
+6. Ajinkya Dhamnaskar - https://ajinkya-dhamnaskar.github.io/
