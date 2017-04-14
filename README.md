@@ -7,3 +7,4 @@ Put your name and blog URL below.
 4. Amruta Kamat - https://amrutakamat16.github.io/    
 5. Eldho Mathulla - https://eldhomathulla.github.io/
 6. Ajinkya Dhamnaskar - https://ajinkya-dhamnaskar.github.io/
+7. Vidya Sagar Kalvakunta - https://sagarkrkv.github.io/blog/
