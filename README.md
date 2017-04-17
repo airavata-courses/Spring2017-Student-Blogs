@@ -8,3 +8,4 @@ Put your name and blog URL below.
 5. Eldho Mathulla - https://eldhomathulla.github.io/
 6. Ajinkya Dhamnaskar - https://ajinkya-dhamnaskar.github.io/
 7. Vidya Sagar Kalvakunta - https://sagarkrkv.github.io/blog/
+8. Anuj Bhandar - https://anujbhan.github.io/
