@@ -9,3 +9,4 @@ Put your name and blog URL below.
 6. Ajinkya Dhamnaskar - https://ajinkya-dhamnaskar.github.io/
 7. Vidya Sagar Kalvakunta - https://sagarkrkv.github.io/blog/
 8. Anuj Bhandar - https://anujbhan.github.io/
+9. Mayank Jaglan - https://mjaglan.github.io/
