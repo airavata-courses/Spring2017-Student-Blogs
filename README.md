@@ -10,3 +10,4 @@ Put your name and blog URL below.
 7. Vidya Sagar Kalvakunta - https://sagarkrkv.github.io/blog/
 8. Anuj Bhandar - https://anujbhan.github.io/
 9. Mayank Jaglan - https://mjaglan.github.io/
+10. Supreeth Shivanand - https://supreeth90.github.io
